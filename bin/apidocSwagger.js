@@ -9,7 +9,6 @@
  * Author Bahman Fakhr Sabahi <bahman.sabahi@exact.com>
  * Licensed under the MIT license.
  */
-
 var path   = require('path');
 var nomnom = require('nomnom');
 var apidocSwagger = require('../lib/index');
