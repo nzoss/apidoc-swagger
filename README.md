@@ -1,7 +1,10 @@
 # apidoc-swagger
+
+Build status: [![CircleCI](https://circleci.com/gh/fsbahman/apidoc-swagger.svg?style=svg)](https://circleci.com/gh/fsbahman/apidoc-swagger)
+
 apidoc and swagger are two nice projects which are focusing on documentation of APIs. 
 This project is a middle tier which tries to bring them together in a sense that:
-> It uses apidoc to convert inline documentation comments into json schema and later convert it to swagger json schmea.
+> It uses apidoc to convert inline documentation comments into json schema and later convert it to swagger json schema.
 
 Uses the [apidoc-core](https://github.com/apidoc/apidoc-core) library.
 
